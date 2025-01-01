@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+.btn-cintainer{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.b1{
+    background-color: red; 
+}
+.b2{
+    background-color: yellow; 
+}
+.b3{
+    background-color: green; 
+}
+.b4{
+    background-color: purple; 
+}
