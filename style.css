@@ -21,15 +21,22 @@ body{
     align-items: center;
 
 }
-.b1{
+.red{
     background-color: red; 
 }
-.b2{
+.yellow{
     background-color: yellow; 
 }
-.b3{
+.green{
     background-color: green; 
 }
-.b4{
+.purple{
     background-color: purple; 
 }
+.flip{
+    background-color: white; 
+}
+  .deep {
+    background-color: red;
+  }
+  
